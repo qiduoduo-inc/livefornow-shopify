@@ -1,0 +1,4 @@
+development:
+  password: theme-access 创建的密码
+  theme_id: 主题id，通过theme get --list 获取
+  store: my-store.myshopify.com

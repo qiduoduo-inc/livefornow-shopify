@@ -1,0 +1,57 @@
+{
+  "sections": {
+    "banner": {
+      "type": "main-collection-banner",
+      "settings": {
+        "show_collection_description": true,
+        "show_collection_image": false,
+        "color_scheme": "background-1"
+      }
+    },
+    "product-grid": {
+      "type": "main-collection-product-grid",
+      "settings": {
+        "products_per_page": 16,
+        "columns_desktop": 4,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "enable_filtering": true,
+        "filter_type": "horizontal",
+        "enable_sorting": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3a2734ff-4fbe-45ac-a388-5a250aac6b17": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16715540070673__3a2734ff-4fbe-45ac-a388-5a250aac6b17-1668502548f5cb62e8-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/pages\/우리에-대해-1\" title=\"우리에 대해\">브랜드 스토리<\/a> | <a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">운송 정책<\/a> | <a href=\"\/policies\/privacy-policy\" title=\"Privacy Policy\">개인정보처리방침<\/a> | <a href=\"\/policies\/terms-of-service\" title=\"Terms of Service\">이용약관<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16715540070673__3a2734ff-4fbe-45ac-a388-5a250aac6b17-1668502548f5cb62e8-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "banner",
+    "product-grid",
+    "3a2734ff-4fbe-45ac-a388-5a250aac6b17"
+  ]
+}

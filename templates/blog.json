@@ -1,0 +1,43 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-blog",
+      "settings": {
+        "layout": "collage",
+        "show_image": true,
+        "image_height": "medium",
+        "show_date": true,
+        "show_author": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "71929de4-86db-4401-9e55-555576e08fac": {
+      "type": "rich-text",
+      "disabled": true,
+      "blocks": {
+        "template--16715540168977__71929de4-86db-4401-9e55-555576e08fac-166850284740e70183-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/pages\/우리에-대해-1\" title=\"우리에 대해\">브랜드 스토리<\/a> | <a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">운송 정책<\/a> | <a href=\"\/policies\/privacy-policy\" title=\"Privacy Policy\">개인정보처리방침<\/a> | <a href=\"\/policies\/terms-of-service\" title=\"Terms of Service\">이용약관<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16715540168977__71929de4-86db-4401-9e55-555576e08fac-166850284740e70183-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "71929de4-86db-4401-9e55-555576e08fac"
+  ]
+}

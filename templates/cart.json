@@ -1,0 +1,84 @@
+{
+  "sections": {
+    "cart-items": {
+      "type": "main-cart-items",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cart-footer": {
+      "type": "main-cart-footer",
+      "blocks": {
+        "subtotal": {
+          "type": "subtotal",
+          "settings": {}
+        },
+        "buttons": {
+          "type": "buttons",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "subtotal",
+        "buttons"
+      ],
+      "settings": {}
+    },
+    "featured-collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Featured collection",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "47fd57d4-4dd4-4d3f-bf51-4c4744c19780": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16715539906833__47fd57d4-4dd4-4d3f-bf51-4c4744c19780-1668502743f82ee662-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/pages\/우리에-대해-1\" title=\"우리에 대해\">브랜드 스토리<\/a> | <a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">운송 정책<\/a> | <a href=\"\/policies\/privacy-policy\" title=\"Privacy Policy\">개인정보처리방침<\/a> | <a href=\"\/policies\/terms-of-service\" title=\"Terms of Service\">이용약관<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16715539906833__47fd57d4-4dd4-4d3f-bf51-4c4744c19780-1668502743f82ee662-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "cart-items",
+    "cart-footer",
+    "featured-collection",
+    "47fd57d4-4dd4-4d3f-bf51-4c4744c19780"
+  ]
+}

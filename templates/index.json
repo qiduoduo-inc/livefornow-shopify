@@ -1,0 +1,320 @@
+{
+  "sections": {
+    "376d0ff3-875e-4006-ba57-c8305f9a4b7c": {
+      "type": "slideshow",
+      "blocks": {
+        "27264a50-969d-4475-985b-b3ae832343ed": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/H771_747x1100_V2.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "상품 보러가기",
+            "link": "shopify:\/\/products\/커플룩-그라데이션-칼라-코튼-코트",
+            "button_style_secondary": true,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "eff8373a-02cb-4489-8e21-f3016b3c2c22": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/H7133_747x1100_V2.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "상품 보러가기",
+            "link": "shopify:\/\/products\/남녀-동형-두꺼운-충돌색-접합-나사구-야구복-pu가죽-입깃-면옷-외투",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "5e5cf841-9383-457f-9c57-34bcc51038c1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/H7129_747x1100_V2.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "상품 보러가기",
+            "link": "shopify:\/\/products\/면-두께-단색-빵옷-면복-외투",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "27264a50-969d-4475-985b-b3ae832343ed",
+        "eff8373a-02cb-4489-8e21-f3016b3c2c22",
+        "5e5cf841-9383-457f-9c57-34bcc51038c1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
+    "16722895084536481b": {
+      "type": "apps",
+      "blocks": {
+        "bdd79853-bb0c-4f09-840f-d31f2093bf93": {
+          "type": "shopify:\/\/apps\/trust-badges-bear\/blocks\/widget\/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "bdd79853-bb0c-4f09-840f-d31f2093bf93"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "LIVEFORNOW",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "과거를 생각하지 않고 장래를 두려워하지 않으며 여생을 저버리지 않고 현재를 산다.",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "상품 보러가기",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/H7133_747x1100_ffaf8369-b79d-4d2d-ad15-a697951b38c5.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "students",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "c0dbc7af-e8af-43c1-8f24-16d28cdebfc9": {
+      "type": "collapsible-content",
+      "disabled": true,
+      "blocks": {
+        "template--16715540136209__c0dbc7af-e8af-43c1-8f24-16d28cdebfc9-166849698459096291-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "브랜드 스토리",
+            "icon": "silhouette",
+            "row_content": "",
+            "page": "우리에-대해-1"
+          }
+        },
+        "template--16715540136209__c0dbc7af-e8af-43c1-8f24-16d28cdebfc9-166849698459096291-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "개인정보처리방침",
+            "icon": "lock",
+            "row_content": "",
+            "page": "개인정보처리방침"
+          }
+        },
+        "template--16715540136209__c0dbc7af-e8af-43c1-8f24-16d28cdebfc9-166849698459096291-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "교환\/반품\/취소\/환불 정책",
+            "icon": "plane",
+            "row_content": "",
+            "page": "교환-반품-취소-환불-정책"
+          }
+        },
+        "template--16715540136209__c0dbc7af-e8af-43c1-8f24-16d28cdebfc9-166849698459096291-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "이용약관",
+            "icon": "heart",
+            "row_content": "",
+            "page": "이용약관"
+          }
+        }
+      },
+      "block_order": [
+        "template--16715540136209__c0dbc7af-e8af-43c1-8f24-16d28cdebfc9-166849698459096291-0",
+        "template--16715540136209__c0dbc7af-e8af-43c1-8f24-16d28cdebfc9-166849698459096291-1",
+        "template--16715540136209__c0dbc7af-e8af-43c1-8f24-16d28cdebfc9-166849698459096291-2",
+        "template--16715540136209__c0dbc7af-e8af-43c1-8f24-16d28cdebfc9-166849698459096291-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "layout": "none",
+        "color_scheme": "background-2",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "2cd1db57-3722-4392-a079-a9d46053dae1": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "mens",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "a4498c85-dac6-41c4-bc80-9f3208eb0f99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16715540136209__a4498c85-dac6-41c4-bc80-9f3208eb0f99-166866600663dcd2ac-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>LIVEFORNOW<\/p>",
+            "heading_size": "h2"
+          }
+        },
+        "template--16715540136209__a4498c85-dac6-41c4-bc80-9f3208eb0f99-166866600663dcd2ac-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>MON-SUN AM8-PM11<br\/>교환&반품 주소: 서울 서대문구 통일로39길<br\/>법인명(상호): (주)LIVEFORNOW<br\/>대표자(성명): 박은성<br\/>MAIL: support@livefornow.kr<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16715540136209__a4498c85-dac6-41c4-bc80-9f3208eb0f99-166866600663dcd2ac-0",
+        "template--16715540136209__a4498c85-dac6-41c4-bc80-9f3208eb0f99-166866600663dcd2ac-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "85867a26-aaea-46e0-8cf3-979af149528a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16715540136209__85867a26-aaea-46e0-8cf3-979af149528a-1668496985be1ecd94-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><a href=\"\/pages\/우리에-대해-1\" title=\"우리에 대해\">브랜드 스토리<\/a> | <a href=\"\/policies\/shipping-policy\" title=\"Shipping Policy\">운송 정책<\/a> | <a href=\"\/policies\/privacy-policy\" title=\"Privacy Policy\">개인정보처리방침<\/a> | <a href=\"\/policies\/terms-of-service\" title=\"Terms of Service\">이용약관<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16715540136209__85867a26-aaea-46e0-8cf3-979af149528a-1668496985be1ecd94-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "376d0ff3-875e-4006-ba57-c8305f9a4b7c",
+    "16722895084536481b",
+    "image_banner",
+    "featured_collection",
+    "c0dbc7af-e8af-43c1-8f24-16d28cdebfc9",
+    "2cd1db57-3722-4392-a079-a9d46053dae1",
+    "a4498c85-dac6-41c4-bc80-9f3208eb0f99",
+    "85867a26-aaea-46e0-8cf3-979af149528a"
+  ]
+}
